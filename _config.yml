@@ -129,8 +129,8 @@ yat:
 # Page default value
  defaults:
    home:
-     heading: "개발자로의 길"
-     subheading: "간다"
+     heading: "g"
+     subheading: "1"
      banner: "Your image url"
 
 # Excerpt size setting
