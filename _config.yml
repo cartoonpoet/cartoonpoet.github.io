@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jun's blog
+title: 개발블로그
 email: cartoonpoet@naver.com
-author: GitHub User
+author: JunHo
 copyright: Copyright © 2021
 description: >- # this means to ignore newlines until "baseurl:"
   안녕하세요, 준호의 개발블로그입니다.
@@ -127,11 +127,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "개발자로의 길"
-#     subheading: "간다"
-#     banner: "Your image url"
+ defaults:
+   home:
+     heading: "개발자로의 길"
+     subheading: "간다"
+     banner: "Your image url"
 
 # Excerpt size setting
 # excerpt_size: 350
