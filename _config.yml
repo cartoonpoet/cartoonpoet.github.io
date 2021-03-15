@@ -55,7 +55,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-lang: ""  # default lang is en
+lang: "en"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -78,7 +78,7 @@ translate_langs:
   - lang: ja
     img: https://www.countryflags.io/jp/flat/64.png
     text: Japan
-
+#
 #   - lang: ko
 #     img: https://www.countryflags.io/kr/flat/64.png
 #     text: Korean
