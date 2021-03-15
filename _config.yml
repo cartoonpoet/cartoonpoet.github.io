@@ -79,9 +79,9 @@ translate_langs:
     img: https://www.countryflags.io/jp/flat/64.png
     text: Japan
 
-  - lang: ko
-    img: https://www.countryflags.io/kr/flat/64.png
-    text: Korean
+#   - lang: ko
+#     img: https://www.countryflags.io/kr/flat/64.png
+#     text: Korean
 
   - lang: ru
     img: https://www.countryflags.io/ru/flat/64.png
