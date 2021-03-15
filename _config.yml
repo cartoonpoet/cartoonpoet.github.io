@@ -131,8 +131,8 @@ lang: "ko"  # default lang is en
 # Page default value
 defaults:
   home:
-    heading: "g"
-    subheading: "1"
+    heading: "안녕하세요"
+    subheading: "junho에요"
     banner: "Your image url"
 
 # Excerpt size setting
