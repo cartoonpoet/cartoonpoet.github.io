@@ -59,7 +59,7 @@ lang: "ko"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
-# translate_langs:
+translate_langs:
 #   - lang: en
 #     text: English
 #
@@ -79,9 +79,9 @@ lang: "ko"  # default lang is en
 #     img: https://www.countryflags.io/jp/flat/64.png
 #     text: Japan
 #
-#   - lang: ko
-#     img: https://www.countryflags.io/kr/flat/64.png
-#     text: Korean
+  - lang: ko
+    img: https://www.countryflags.io/kr/flat/64.png
+    text: Korean
 #
 #   - lang: ru
 #     img: https://www.countryflags.io/ru/flat/64.png
