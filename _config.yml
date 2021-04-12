@@ -131,8 +131,8 @@ lang: "ko"  # default lang is en
 # Page default value
 defaults:
   home:
-    heading: "Programming is like kicking yourself in the face, sooner or later your nose will bleed."
-    subheading: "프로그래밍은 자기 얼굴을 차는 것과 같아서, 조만간 코피가 날 것이다. – 카일 우드버리(Kyle Woodbury)"
+    heading: "프로그래밍은 자기 얼굴을 차는 것과 같아서, 조만간 코피가 날 것이다."
+    subheading: "카일 우드버리(Kyle Woodbury)"
     banner: "Your image url"
 
 # Excerpt size setting
