@@ -4,7 +4,7 @@ title: 3.5장 이진 코드
 subheading: Binary Code
 author: JunHo
 categories: 컴퓨터구조
-banner: Some URL
+banner: https://bit.ly/32PAjtM
 tags:
   - 컴퓨터구조 
   - computer 
