@@ -6,7 +6,6 @@ author: JunHo
 categories: SwiftUI
 banner: https://bit.ly/32PAjtM
 tags: IOS AOS iphone ipad mac swift storyboard 아이폰 애플 apple 
-comments: true
 sitemap :
   changefreq : daily
   priority : 1.0
